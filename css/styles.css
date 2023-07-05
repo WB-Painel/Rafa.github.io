@@ -354,11 +354,11 @@ body
   
   color:Red;
   font-family:"Cyberpunk";
-  /*src: url('/fonts/Cyberpunk.ttf');*/
+  src: url('/fonts/Cyberpunk.ttf');
 }
 @font-face {
 font-family:"Cyberpunk";
-src: url("fonts/Cyberpunk.ttf");
+src: url("/fonts/Cyberpunk.ttf");
 }
 
 .line{
